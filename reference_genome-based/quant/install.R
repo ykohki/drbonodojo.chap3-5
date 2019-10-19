@@ -1,0 +1,6 @@
+if (!requireNamespace("BiocManager"))
+  install.packages("BiocManager")
+BiocManager::install()
+BiocManager::install("tximport")
+BiocManager::install("readr")
+BiocManager::install("jsonlite")
