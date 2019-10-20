@@ -1,0 +1,3 @@
+testis  testis_rep1 DRR068893_1.fq.gz    DRR068893_2.fq.gz
+testis  testis_rep2 DRR068894_1.fq.gz    DRR068894_2.fq.gz
+testis  testis_rep3 DRR068895_1.fq.gz    DRR068895_2.fq.gz
